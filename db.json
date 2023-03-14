@@ -441,9 +441,7 @@
           "propertyType": "Villa",
           "address": "Diplomatic Enclave Chanakyapuri, New Delhi, Delhi N.C.R, 110023",
           "images": [
-            {
-              "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/958ad657.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
-            },
+           
             {
               "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/5cc49445.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
             },
@@ -455,6 +453,9 @@
             },
             {
               "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/91dcc871.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+            },
+            {
+              "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/958ad657.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
             }
           ]
         },
