@@ -82,8 +82,42 @@
       "Port":"Tuna Port",
       "Kgcl":"5906 INAR (K cal/kg)",
       "payment":"Netbanking"
+  }, {
+        "title":"IOANNIS",
+        "Country":"United states",
+        "currency":"USD" ,
+        "description":"IOANNIS, San Nicolas, abc contract , abc contract US COAL,Chandrapur - HLC -2",
+        "Port":"Tuna Port",
+        "Kgcl":"5906 INAR (K cal/kg)",
+        "payment":"Phone pe"
+    },
+     {
+        "title":"IOANNIS",
+        "Country":"United states",
+        "currency":"USD" ,
+        "description":"IOANNIS, San Nicolas, abc contract , abc contract US COAL,Chandrapur - HLC -2",
+        "Port":"Tuna Port",
+        "Kgcl":"5906 INAR (K cal/kg)",
+        "payment":"Phone pe"
+    },
+     {
+        "title":"IOANNIS",
+        "Country":"United states",
+        "currency":"USD" ,
+        "description":"IOANNIS, San Nicolas, abc contract , abc contract US COAL,Chandrapur - HLC -2",
+        "Port":"Tuna Port",
+        "Kgcl":"5906 INAR (K cal/kg)",
+        "payment":"Netbanking"
+    },
+    {
+      "title":"IOANNIS",
+      "Country":"United states",
+      "currency":"USD" ,
+      "description":"IOANNIS, San Nicolas, abc contract , abc contract US COAL,Chandrapur - HLC -2",
+      "Port":"Tuna Port",
+      "Kgcl":"5906 INAR (K cal/kg)",
+      "payment":"google pay"
   }
-
      ],
   "wishlisted_cars": [
       {
