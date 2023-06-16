@@ -26,7 +26,8 @@
         "currency":"USD" ,
         "description":"IOANNIS, San Nicolas, abc contract , abc contract US COAL,Chandrapur - HLC -2",
         "Port":"Tuna Port",
-        "Kgcl":"5906 INAR (K cal/kg)"
+        "Kgcl":"5906 INAR (K cal/kg)",
+        "payment":"Phone pe"
     },
     {
         "title":"TEST EAUCTION 6750 NAR",
@@ -34,7 +35,8 @@
         "currency":"INR" ,
         "description":"Test Vessel eAuction 6750 NAR",
         "Port":"Tuna Port",
-        "Kgcl":"6750 INAR (K cal/kg)"
+        "Kgcl":"6750 INAR (K cal/kg)",
+        "payment":"google pay"
     }
     , {
         "title":"IOANNIS",
@@ -42,7 +44,8 @@
         "currency":"INR" ,
         "description":"IOANNIS, San Nicolas, abc contract , abc contract US COAL,Chandrapur - HLC -2",
         "Port":"Tuna Port",
-        "Kgcl":"5906 INAR (K cal/kg)"
+        "Kgcl":"5906 INAR (K cal/kg)",
+        "payment":"Netbanking"
     }
     , {
         "title":"MV SAMJHON SOLIDARITY",
@@ -50,7 +53,8 @@
         "currency":"INR" ,
         "description":"MV SAMJOHN SOLIDARITY",
         "Port":"Tuna Port",
-        "Kgcl":"5861 INAR (K cal/kg)"
+        "Kgcl":"5861 INAR (K cal/kg)",
+        "payment":"Phone pe"
     }
     , {
         "title":"IOANNIS",
@@ -58,8 +62,27 @@
         "currency":"USD" ,
         "description":"IOANNIS, San Nicolas, abc contract , abc contract US COAL,Chandrapur - HLC -2",
         "Port":"Tuna Port",
-        "Kgcl":"5906 INAR (K cal/kg)"
-    }
+        "Kgcl":"5906 INAR (K cal/kg)",
+        "payment":"google pay"
+    },
+    {
+      "title":"TEST EAUCTION 6750 NAR",
+      "Country":"United kingdom",
+      "currency":"INR" ,
+      "description":"Test Vessel eAuction 6750 NAR",
+      "Port":"Tuna Port",
+      "Kgcl":"6750 INAR (K cal/kg)",
+      "payment":"google pay"
+  }
+  , {
+      "title":"IOANNIS",
+      "Country":"United states",
+      "currency":"INR" ,
+      "description":"IOANNIS, San Nicolas, abc contract , abc contract US COAL,Chandrapur - HLC -2",
+      "Port":"Tuna Port",
+      "Kgcl":"5906 INAR (K cal/kg)",
+      "payment":"Netbanking"
+  }
 
      ],
   "wishlisted_cars": [
