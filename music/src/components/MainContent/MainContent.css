@@ -1,0 +1,34 @@
+/* src/styles.css */
+/* 
+.main-content {
+  padding: 20px; 
+}
+
+.main-content .section {
+  margin-bottom: 20px; 
+} */
+
+main {
+  height: 100%;
+  overflow-y: auto;
+}
+
+/* Hide scrollbar for Firefox */
+main {
+  scrollbar-width: none; /* Firefox */
+}
+
+/* Hide scrollbar for Webkit browsers */
+main::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}
+
+.background-image {
+  width: full;
+  height: full;
+  background-image: url("../../assets/icons/Background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-radius: 20px;
+}
